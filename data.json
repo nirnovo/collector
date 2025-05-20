@@ -172,14 +172,6 @@
                 "description": "Focalboard 是一个开源的、多语言的、自托管的项目管理工具，是 Trello、Notion 和 Asana 的替代品。它帮助个人和团队定义、组织、跟踪和管理工作。"
             },
             {
-                "title": "全球液晶屏交易中心 - 屏库",
-                "url": "https://www.panelook.cn/index_cn.php",
-                "icon": "https://www.panelook.cn/favicon.ico",
-                "categories": "生活办公",
-                "tags": "液晶屏,显示模组,工业显示",
-                "description": "屏库是一个全球液晶屏交易中心，提供各种液晶屏、显示模组、触摸屏等产品的销售和采购服务，适用于工业显示、商业显示等多种应用场景。"
-            },
-            {
                 "title": "医保政策导航",
                 "url": "https://yibao.233h.com/",
                 "icon": "",
@@ -540,6 +532,14 @@
                 "categories": "编程开发",
                 "tags": "IPFS,节点检查,Jetbran,分布式存储",
                 "description": "JETBRA.IN CHECKER 是一个用于科学使用 JetBrains 产品的工具"
+            },
+            {
+                "title": "深入高可用系统原理与设计",
+                "url": "https://www.thebyte.com.cn/",
+                "icon": "https://www.thebyte.com.cn/assets/favicon.ico",
+                "categories": "编程开发",
+                "tags": "高可用、docker、k8s、架构",
+                "description": "容器技术（Container、Kubernetes）、服务网格（ServiceMesh）、无服务器（Serverless）、高性能网络（DPDK、XDP、RDMA"
             },
             {
                 "title": "正则表达式可视化-Visual Regexp：在线测试、学习、构建正则表达式",
