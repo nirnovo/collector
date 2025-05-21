@@ -230,7 +230,7 @@
                         "description": "《golang | 学习笔记》是一个涵盖Golang编程语言的学习资源网站，提供从入门到高级的教程、命令详解、编译器原理、内存管理、并发编程等内容，帮助编程爱好者深入理解和掌握Golang。"
                     },
                     {
-                        "title": "前言 - Go gRPC 简明指南",
+                        "title": "Go gRPC 简明指南",
                         "url": "https://jergoo.github.io/go-grpc-tutorial/",
                         "icon": "https://jergoo.github.io/go-grpc-tutorial/favicon.svg",
                         "categories": "编程开发",
@@ -534,12 +534,12 @@
                 "description": "JETBRA.IN CHECKER 是一个用于科学使用 JetBrains 产品的工具"
             },
             {
-                "title": "深入高可用系统原理与设计",
-                "url": "https://www.thebyte.com.cn/",
-                "icon": "https://www.thebyte.com.cn/assets/favicon.ico",
+                "title": "JenkinsGuide",
+                "url": "https://github.com/opsre/JenkinsGuide",
+                "icon": "",
                 "categories": "编程开发",
-                "tags": "高可用、docker、k8s、架构",
-                "description": "容器技术（Container、Kubernetes）、服务网格（ServiceMesh）、无服务器（Serverless）、高性能网络（DPDK、XDP、RDMA"
+                "tags": "jenkinsguide.opsre.top",
+                "description": "Jenkins全知全解"
             },
             {
                 "title": "正则表达式可视化-Visual Regexp：在线测试、学习、构建正则表达式",
